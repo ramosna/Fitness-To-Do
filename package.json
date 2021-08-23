@@ -1,0 +1,29 @@
+{
+    "name": "hello-world",
+    "version": "1.0.0",
+    "description": "HW6 CS290",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "OSU",
+    "license": "ISC",
+    "dependencies": {
+      "body-parser": "^1.13.3",
+      "cors": "^2.8.5",
+      "express": "^4.17.1",
+      "express-handlebars": "^2.0.1",
+      "express-session": "^1.11.3",
+      "forever": "^4.0.0",
+      "mysql": "^2.18.1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/luyaozh/CS290.git"
+    },
+    "bugs": {
+      "url": "https://github.com/luyaozh/CS290/issues"
+    },
+    "homepage": "https://github.com/luyaozh/CS290#readme"
+  }
+  
