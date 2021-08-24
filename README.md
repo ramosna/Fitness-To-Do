@@ -12,3 +12,5 @@ For a list of depandecies see the [package.json](package.json) file.
 To view the client side javaScript and AJAX requests see the [script.js](script.js) file.
 
 To view the backend Node.js, Express.js, and mySQL file see the [index.js](index.js) file.
+
+![webpage](display.gif)
